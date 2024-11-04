@@ -1,9 +1,10 @@
 # kit-item-distribution
-Kit Item Distribution
-Project Overview
+
+##Project Overview
+
 The Kit Item Distribution project aims to streamline the process of distributing items within kits, ensuring efficient allocation and tracking. By analyzing inventory data and distribution patterns, this project seeks to optimize item distribution for kit assembly, reducing waste and improving fulfillment accuracy.
 
-Table of Contents
+#Table of Contents
 Project Overview
 Key Features
 Data Sources
